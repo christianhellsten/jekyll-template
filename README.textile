@@ -2,8 +2,7 @@ h1. A Customizable Site Template Based on the Jekyll Static Site Generator
 
 This is a customizable site template based on the Jekyll static site generator script.
 
-The goal of this project is to create a site template that can be easily customized and used for 
-blogs and websites with as much of the boring manual work removed.
+The goal of this project is to create a site template that can be easily customized and used on, for example, blogs and static sites.
 
 h2. Features
 
@@ -12,6 +11,7 @@ h2. Features
 * Google Analytics integration
 * Sitemap
 * Atom feed
+* Disqus integration TODO
 
 h2. Usage
 
