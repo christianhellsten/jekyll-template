@@ -1,0 +1,10 @@
+h1. A Customizable Jekyll Template
+
+Features
+* Sitemap
+* Atom feed
+* Google Analytics
+* Blueprint CSS based layout
+* jQuery
+
+

@@ -1,0 +1,8 @@
+
+  {% if page.categories && page.categories != empty %}
+    <p class="categories-list">
+    Categories: 
+    {{ page.categories | array_to_sentence_string }}
+    </p>
+  {% endif %}
+

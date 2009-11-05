@@ -1,0 +1,26 @@
+#
+# Jekyll configuration
+#
+#destination: ./_site
+auto:        false
+lsi:         true # better related posts
+server_port: 4000
+pygments:    false
+markdown:    maruku
+permalink:   none
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_dir:    images/latex
+  png_url:    /images/latex
+
+#
+# Site configuration
+#
+url:          http://localhost:4000
+title:        A Jekyll Template
+description:  A customizable Jekyll template.
+keywords:     jekyll, template, blog
+author:       # atom.xml: Name of website's author
+email:        # atom.xml: Author email
+analytics_id: # Google Analytics ID: UA-xxx-xxx

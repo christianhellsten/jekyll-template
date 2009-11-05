@@ -1,0 +1,8 @@
+
+
+  {% if page.tags && page.tags != empty %}
+    <p class="tags-list">
+    Tags: 
+    {{ page.tags | array_to_sentence_string }}
+    </p>
+  {% endif %}

@@ -1,0 +1,7 @@
+
+  <div class="span-8 last">
+    {% include posts_list %}
+    {% include categories_list %}
+    {% include tags_list %}
+  </div>
+

@@ -1,0 +1,21 @@
+---
+layout: default
+keywords: jekyll, posts
+description: All posts
+---
+ 
+  <div class="span-16">
+    {% for post in site.posts %}
+    <div class="post">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <div>
+      {{ post.date | date_to_string }}
+      </div>
+      <div>
+      {{ post.content | truncatewords  }}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+ {% include sidebar %}
