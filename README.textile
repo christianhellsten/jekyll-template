@@ -1,10 +1,26 @@
-h1. A Customizable Jekyll Template
+h1. A Customizable Site Template Based on the Jekyll Static Site Generator
 
-Features
+This is a customizable site template based on the Jekyll static site generator script.
+
+The goal of this project is to create a site template that can be easily customized and used for 
+blogs and websites with as much of the boring manual work removed.
+
+h2. Features
+
+* Blueprint CSS based site template
+* jQuery
+* Google Analytics integration
 * Sitemap
 * Atom feed
-* Google Analytics
-* Blueprint CSS based layout
-* jQuery
 
+h2. Usage
+
+* Download and set the site specific configuration in config.yml
+* Customize files in _layouts/* and in _includes/*
+* Customize index.html and posts.html
+* Write articles and put them in _posts/*
+
+h2. Author
+
+"Christian Hellsten":http://christianhellsten.com ("Aktagon Ltd.":http://aktagon.com)
 
