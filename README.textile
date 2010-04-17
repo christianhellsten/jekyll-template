@@ -11,6 +11,7 @@ h2. Features
 * Google Analytics integration
 * Sitemap
 * Atom feed
+* SEO optimized
 * Disqus integration TODO
 
 h2. Usage
@@ -19,6 +20,8 @@ h2. Usage
 * Customize files in _layouts/* and in _includes/*
 * Customize index.html and posts.html
 * Write articles and put them in _posts/*
+
+Note that you need this patch http://github.com/christianhellsten/jekyll/commit/52342fe6e10ef8890f7b1e6cb106928297322496 to be able to use this template.
 
 h2. Author
 
