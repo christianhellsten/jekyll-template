@@ -25,5 +25,5 @@ Note that you need this patch http://github.com/christianhellsten/jekyll/commit/
 
 h2. Author
 
-"Christian Hellsten":http://christianhellsten.com ("Aktagon Ltd.":http://aktagon.com)
+Christian Hellsten ("Aktagon Ltd.":http://aktagon.com)
 
